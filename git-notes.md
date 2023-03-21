@@ -15,3 +15,15 @@ Use the command `git add .`
 ## Commiting our changes and adding message
 
 Use the command `git commit -m "MESSAGE HERE"`
+
+# Github
+
+1. Create repository and give unique name
+2. Copy last option and paste into terminal
+
+# Already have repo and want to update with changes
+
+1. `git add .`
+2. `git status`
+3. `git commit -m "MESSAGE HERE"`
+4. `git push origin main`
