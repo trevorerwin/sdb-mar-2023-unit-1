@@ -1,0 +1,5 @@
+- create an index.html
+- create a css file named style.css
+- add boilerplate
+- make entire webpage background #eee
+-
